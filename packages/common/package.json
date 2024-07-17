@@ -1,6 +1,9 @@
 {
   "name": "common",
   "version": "0.0.0",
+  "scripts": {
+    "node-test": "cat dist/index.mjs | node --input-type=module"
+  },
   "dependencies": {
     "react-focus-lock": "^2.12.1"
   },
