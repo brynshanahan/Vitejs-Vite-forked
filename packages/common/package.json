@@ -1,0 +1,10 @@
+{
+  "name": "common",
+  "version": "0.0.0",
+  "dependencies": {
+    "react-focus-lock": "^2.12.1"
+  },
+  "exports": {
+    "import": "./dist/index.mjs"
+  }
+}

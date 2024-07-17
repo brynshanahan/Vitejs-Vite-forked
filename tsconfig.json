@@ -1,0 +1,8 @@
+{
+  "include": [
+    "show-issue.js"
+  ],
+  "compilerOptions": {
+    "checkJs": true
+  }
+}
